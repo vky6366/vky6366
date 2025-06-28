@@ -15,9 +15,9 @@
 
 ## 🚀 Major Projects
 
-- 🛡️ [**DeepShield**](https://github.com/vky6366/DeepShield)  
+- 🛡️ [**DeepFake Detection**](https://github.com/vky6366/DeepFake-Detection)  
   Multi-modal Deepfake Detection using EfficientNet, audio spectrograms, and frame-based video/image analysis.  
-  `Tech:` Python, CNNs, EfficientNet, Xception, Librosa, Flask, Django, Ensemble Learning
+  `Tech:` Python, CNNs, EfficientNet, Librosa, FastAPI, Ensemble Learning, Kotlin, HTML, CSS, Javascript, React
 
 - 🔐 [**Phishing Domain Detector**](https://github.com/vky6366/Phishing-Domains-Detection)  
   Real-time phishing URL detection using machine learning and web scraping, deployed via a REST API.  
