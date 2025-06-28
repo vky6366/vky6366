@@ -4,7 +4,7 @@
 ---
 
 - 🔭 Currently working on: **LangChain Agents & RAG Systems**, **TFLite Edge Deployments**, and **a Deepfake Detection research paper**
-- 🌱 Exploring: **Multi-Modal Learning, MLOps**, and **FAANG-level System Design**
+- 🌱 Exploring: **Multi-Modal Learning, MLOps**, and **System Design**
 - ✍️ Writing my first research paper on **Multi-Modal Deepfake Detection** (Image + Video + Audio)
 - 📬 Reach me at: **vishwakalyanpatil@gmail.com**
 - 🌐 My Portfolio Website (Coming Soon...)
