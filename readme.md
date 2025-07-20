@@ -51,14 +51,16 @@
   NLP project that classifies duplicate questions using semantic and syntactic similarity models.  
   `Tech:` Python, TF-IDF, XGBoost, Siamese LSTM (WIP)
 
-- 🌐 [**Faculty Research Module (Deployed)**](https://github.com/vky6366/College_Project)  
+- 🌐 [**Faculty Research Module **](https://github.com/vky6366/College_Project)  
   A web portal to store and display faculty achievements (papers, patents, research work). Built for institutional use and deployed internally.  
   `Tech:` PHP, XAMPP, MySQL, HTML, CSS, JavaScript
+  `Link:` https://research.aitmbgm.ac.in/
 
 - 🚦 [**Intelligent Transportation System Website**](https://github.com/vky6366/Intelligent-transportation-system-Website)  
   Smart traffic and safety awareness platform built for a university-level smart city prototype.  
   🎯 **Presented at the IEEE Smart Cities Conference (Paris)**  
   `Tech:` PHP, Firebase, XAMPP, MySQL, HTML, CSS, JavaScript
+  `Link: ` https://intelligent-transportation-system.aitmbgm.ac.in/
 
 ---
 
