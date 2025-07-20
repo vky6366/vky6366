@@ -3,58 +3,61 @@
 
 ---
 
-- 🔭 Currently working on: **LangChain Agents & RAG Systems**, **TFLite Edge Deployments**, and **a Deepfake Detection research paper**
+- 🔭 Currently working on: **LangChain Agents & RAG Systems**, **TFLite Edge Deployments**, and a **Deepfake Detection Research Paper**
 - 🌱 Exploring: **Multi-Modal Learning, MLOps**, and **System Design**
-- ✍️ Writing my first research paper on **Multi-Modal Deepfake Detection** (Image + Video + Audio)
+- ✍️ First-authoring a research paper on **Multi-Modal Deepfake Detection** (Image + Video + Audio)
 - 📬 Reach me at: **vishwakalyanpatil@gmail.com**
-- 🌐 My Portfolio Website (Coming Soon...)
+- 🌐 Portfolio Website: *Coming Soon...*
 
 ---
 
 ## 💼 Featured Projects
 
-## 🚀 Major Projects
+### 🚀 Major Projects
 
 - 🛡️ [**DeepFake Detection**](https://github.com/vky6366/DeepFake-Detection)  
-  Multi-modal Deepfake Detection using EfficientNet, audio spectrograms, and frame-based video/image analysis.  
-  `Tech:` Python, CNNs, EfficientNet, Librosa, FastAPI, Ensemble Learning, Kotlin, HTML, CSS, Javascript, React
+  Multi-modal Deepfake Detection using EfficientNet ensembles, audio spectrograms, and frame-based classification.  
+  `Tech:` Python, CNNs, PyTorch, Librosa, OpenCV, FastAPI, Kotlin, Grad-CAM
+
+- 📺 [**YouTube Q&A RAG Assistant**](https://github.com/vky6366/YT-Insight)  
+  LangChain-powered RAG system that allows querying YouTube videos using natural language, based on extracted transcripts.  
+  `Tech:` LangChain, OpenAI GPT, FAISS, Streamlit, YouTube API
 
 - 🔐 [**Phishing Domain Detector**](https://github.com/vky6366/Phishing-Domains-Detection)  
-  Real-time phishing URL detection using machine learning and web scraping, deployed via a REST API.  
-  `Tech:` Python, Sklearn, BeautifulSoup, Flask, Scikit-learn
-
-- 🤖 [**Chatbot on Cyber Laws (LangChain + RAG)**](#)  
-  RAG-powered chatbot trained on Bharat Nyay Sanhita, designed to handle Indian legal queries contextually.  
-  `Tech:` LangChain, Hugging Face Transformers, Pinecone/FAISS, Streamlit
+  Real-time phishing URL detection system using lexical + host-based features, deployed via REST API.  
+  `Tech:` Python, Scikit-learn, BeautifulSoup, Flask, Kotlin (Android)
 
 - 🧠 [**Fake News Detector with LLM**](#)  
-  Detects manipulated and fake news content by analyzing the semantic consistency using a fine-tuned LLM.  
-  `Tech:` Transformers, BERT/RoBERTa, Sklearn, Hugging Face
+  Detects semantically manipulated content using fine-tuned LLMs. Designed for misinformation filtering.  
+  `Tech:` Hugging Face Transformers, BERT/RoBERTa, NLP Metrics
 
-- 📱 [**TFLite Image Classifier (on-device)**](https://github.com/vky6366/OnDevice_Image-Classification)  
-  Lightweight Xception-based image classifier converted to TensorFlow Lite and deployed on Android (Kotlin).  
+- 📱 [**TFLite Image Classifier (On-Device)**](https://github.com/vky6366/OnDevice_Image-Classification)  
+  Custom image classifier quantized and optimized for Android with real-time prediction and minimal latency.  
   `Tech:` TensorFlow, TFLite, Android Studio, Kotlin
 
 - 🧑‍💼 [**Interview Simulator**](https://github.com/vky6366/Interview-Simulator)  
-  AI-powered behavioral interview simulator that evaluates candidate answers using LLMs and scoring metrics.  
-  `Tech:` Transformers, Gradio/Streamlit, NLP Evaluation Metrics, LangChain
+  Behavioral interview simulator using LLMs to evaluate and score candidate responses.  
+  `Tech:` LangChain, Gradio, Transformers, NLP scoring techniques
 
+---
 
-### Others projects
+### 📌 Other Projects
+
 - 🏏 [**Cricket Score Predictor**](https://github.com/vky6366/Cricket-Score-Predictor)  
-  Predicts the target score in cricket matches using past performance, team stats, and match conditions.  
-  `Tech:` Python, Pandas, Scikit-learn, Regression Models
+  Predicts target cricket scores using match context, regression models, and team performance stats.  
+  `Tech:` Python, Pandas, Scikit-learn, Linear Regression
 
 - ❓ [**Quora Question Pair Similarity**](https://github.com/vky6366/Quora-Question-Pairs)  
-  NLP project that identifies if two Quora questions are duplicates using semantic and syntactic analysis.  
-  `Tech:` Python, NLTK, TF-IDF, XGBoost, Siamese LSTM (experimented)
+  NLP project that classifies duplicate questions using semantic and syntactic similarity models.  
+  `Tech:` Python, TF-IDF, XGBoost, Siamese LSTM (WIP)
+
 ---
 
 ## 🏆 Achievements
 
 - 🥇 1st Place – Tech Showcase (Deepfake Detection)
 - 🥈 2nd Place – AI Innovation Competition (DeepShield)
-- 🥉 3rd Place – 24-Hour Hackathon: **Fake News & Deepfake Detection Suite**
+- 🥉 3rd Place – 24-Hour Hackathon: Fake News + Deepfake Detection Suite
 
 ---
 
@@ -76,8 +79,8 @@
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishwa.ml.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishwakalyanpatil@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/vky6366)
 
 ---
