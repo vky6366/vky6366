@@ -7,7 +7,7 @@
 - 🌱 Exploring: **Multi-Modal Learning, MLOps**, and **System Design**
 - ✍️ First-authoring a research paper on **Multi-Modal Deepfake Detection** (Image + Video + Audio)
 - 📬 Reach me at: **vishwakalyanpatil@gmail.com**
-- 🌐 Portfolio Website: *Coming Soon...*
+- 🌐 Portfolio Website: [**Portfolio**](https://v0-vishwakalyan-portfolio.vercel.app/)
 
 ---
 
